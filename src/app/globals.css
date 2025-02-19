@@ -11,3 +11,13 @@
     font-family: "Inter-Regular";
     src: url(../../public/fonts/Inter_18pt-Regular.ttf) format("truetype");
   }
+
+@font-face {
+    font-family: "Roboto-Regular";
+    src: url(../../public/fonts/Roboto_Condensed-Regular.ttf) format("truetype");
+  }
+
+  @font-face {
+    font-family: "Roboto-Bold";
+    src: url(../../public/fonts/Roboto_Condensed-Bold.ttf) format("truetype");
+  }
