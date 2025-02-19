@@ -17,7 +17,12 @@
     src: url(../../public/fonts/Roboto_Condensed-Regular.ttf) format("truetype");
   }
 
-  @font-face {
+@font-face {
     font-family: "Roboto-Bold";
     src: url(../../public/fonts/Roboto_Condensed-Bold.ttf) format("truetype");
+  }
+
+@font-face {
+    font-family: "Quicksand";
+    src: url(../../public/fonts/Quicksand-Bold.ttf) format("truetype");
   }
