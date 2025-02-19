@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: "Outfit-Regular";
+    src: url(../../public/fonts/Outfit-Regular.ttf) format("truetype");
+  }
+
+@font-face {
+    font-family: "Inter-Regular";
+    src: url(../../public/fonts/Inter_18pt-Regular.ttf) format("truetype");
+  }
