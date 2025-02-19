@@ -1,6 +1,9 @@
 export default function Hero() {
   return (
-    <div className="bg-[#FFF8ED] w-full h-[500px]">
+    <div className="bg-[#FFF8ED] w-full h-[500px] relative">
+      <div className="absolute to-0 left-0">
+        <img src="/images/Group.png" alt="" />
+      </div>
       <div className="container mx-auto flex justify-center items-center space-x-20 py-20">
         <div className="">
           <h1 className="w-[497px] h-[50px] font-[Outfit-Regular] text-[40px] leading-[50.4px] text-[#121212]">
