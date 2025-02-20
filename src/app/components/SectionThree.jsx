@@ -11,16 +11,16 @@ export default function SectionThree() {
             intricate training programs.</p>
         </div>
         <div className="border rounded-xl border-gray-300 p-6 mt-2 ">
-            <h2 className="text-[#39B296] text-[Quicksand] text-[24px] leading-[18px] mb-5">Comprehensive Discovery</h2>
+            <h2 className="text-[Quicksand] text-[24px] leading-[18px] mb-5">Comprehensive Discovery</h2>
         </div>
         <div className="border border-gray-300 p-6 mt-2 rounded-xl ">
-            <h2 className="text-[#39B296] text-[Quicksand] text-[24px] leading-[18px] mb-5">Streamlined Solutions</h2>
+            <h2 className="text-[Quicksand] text-[24px] leading-[18px] mb-5">Streamlined Solutions</h2>
         </div>
         <div className="border border-gray-300 p-6 mt-2 rounded-xl">
-            <h2 className="text-[#39B296] text-[Quicksand] text-[24px] leading-[18px] mb-5">Unmatched Quality</h2>
+            <h2 className="text-[Quicksand] text-[24px] leading-[18px] mb-5">Unmatched Quality</h2>
         </div>
         <div className="border border-gray-300 p-6 mt-2 rounded-xl">
-            <h2 className="text-[#39B296] text-[Quicksand] text-[24px] leading-[18px] mb-5">Reliable Timeliness</h2>
+            <h2 className="text-[Quicksand] text-[24px] leading-[18px] mb-5">Reliable Timeliness</h2>
         </div>
       </div>
       <div>
